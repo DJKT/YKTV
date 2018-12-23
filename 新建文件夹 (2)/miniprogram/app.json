@@ -1,0 +1,12 @@
+{"pages": [
+    "pages/index/index",
+    "pages/naozhong/naozhong",
+    "pages/paozao/paozao",
+  "pages/tingge/tingge" ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "white",
+    "navigationBarTitleText": "浴室KTV",
+    "navigationBarTextStyle": "black",
+    "enablePullDownRefresh": true },
+  "debug": true}

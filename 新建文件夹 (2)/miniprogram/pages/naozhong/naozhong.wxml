@@ -1,0 +1,11 @@
+<view class="jx_card">
+<view class='beijing'>
+<view class='biaoti'>闹钟时间</view>
+<button class="kaiguan1" plain="true" bindtap="send1">10</button>
+<button class="kaiguan2" plain="true" bindtap="send2">20</button>
+<button class="kaiguan3" plain="true" bindtap="send3">30</button>
+<button class="kaiguan4" plain="true" bindtap="send4">40</button>
+<button class="kaiguan5" plain="true" bindtap="send5">50</button>
+<button class="kaiguan6" plain="true" bindtap="send6">60</button>
+</view>
+</view>

@@ -1,0 +1,12 @@
+/* pages/naozhong/naozhong.wxss */
+page{width:100%;height:100%;overflow: hidden;}
+.biaoti{font-style:italic;font-weight:1200;font-size:large;} 
+.beijing{width:100%;height:100%;background: url('https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=2772876546,342038604&fm=26&gp=0.jpg'); background-size: cover;}
+.kaiguan1{top: 150rpx;width:300rpx;}
+.kaiguan2{top: 157rpx;width:300rpx;}
+.kaiguan3{top: 164rpx;width:300rpx;}
+.kaiguan4{top: 171rpx;width:300rpx;}
+.kaiguan5{top: 178rpx;width:300rpx;}
+.kaiguan6{top: 185rpx;width:300rpx;}
+.jx_card{ width: 100%;height: 100%;position: relative}
+.biaoti{font-style:italic;font-weight:1200;font-size:large;} 

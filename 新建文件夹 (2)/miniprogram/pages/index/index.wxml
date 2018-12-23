@@ -1,0 +1,7 @@
+<view class="jx_card">
+<image  class="KTV" src="../../images/KTV.png">
+</image>
+<image class="tingge" bindtap="send1" src='../../images/tingge.png'></image>
+<image class="paozao" bindtap="send2" src='../../images/paozao.png'></image>
+<image class="naozhong" bindtap="send3" src='../../images/naozhong.png'></image>
+ </view>
